@@ -19,7 +19,7 @@ README.md
 
 ## Launching Site
 
-1. Make sure you [Python installed.](https://www.python.org/)
+1. Make sure you have [python installed.](https://www.python.org/)
 2. Download or clone this repository.
 3. Run the entertainment_center.py file using Python. For example you might use the command line like so...
 
